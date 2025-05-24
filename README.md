@@ -46,15 +46,6 @@ B.Eng. in Computer Engineering (2021–2025)
 - GPAX: 3.14  
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=APRPMCHRIL&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APRPMCHRIL&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: ar.pummuang@gmail.com  
