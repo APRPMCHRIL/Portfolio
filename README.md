@@ -76,7 +76,7 @@ Python, Orange3, UCI Spambase Dataset, Enron Dataset
 
 ---
 
-## 🎥 Movie Streaming Web
+## 🎥 Movie Streaming Web (Group Project)
 
 A full-stack web application for watching and downloading movies, with playlist features.
 
@@ -89,7 +89,7 @@ React, TypeScript, Golang, REST API
 
 ---
 
-# 🔐 Sensitive Code Detection: Enhancing Cybersecurity with Machine Learning
+## 🔐 Sensitive Code Detection: Enhancing Cybersecurity with Machine Learning
 
 This project aims to detect **sensitive or risky source code** using **Machine Learning** and **Natural Language Processing (NLP)** techniques. It supports developers and security teams in identifying code snippets that could expose personal data, secrets, or vulnerabilities.
 
