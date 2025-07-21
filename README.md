@@ -135,8 +135,9 @@ Source: Manually labeled + adapted from open repositories and simulated risky co
 - Practiced working with Linux-based GPIO and multitasking concepts (threads/processes)
 
 **Key Features:**
-- Real-time monitoring of temperature and humidity  
-- Detects flame and triggers buzzer alarm  
-- Logs sensor data and events into a text file for later analysis
+- 🔊 Fire alert via buzzer sound when flame is detected
+- 📲 Sends fire alert to LINE Application in real-time
+- 🌡️ Monitors temperature and humidity continuously when the flame sensor detects fire
+- 📝 Logs temperature and humidity data during fire alerts for record and analysis
 
 ---
