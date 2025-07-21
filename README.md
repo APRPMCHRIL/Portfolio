@@ -18,7 +18,7 @@ Additionally, I have experience building **full-stack web applications** using *
 ## 🛠️ Skills & Tools
 
 **Languages:**  
-Python · Java · C · Golang · TypeScript · PHP · CSS · HTML(still learning)
+Python · Java · C · Golang · TypeScript · PHP · CSS · HTML(still learning) · JavaScript(still learning)
 
 **Tools & Frameworks:**  
 React · Arduino · MySQL · Orange Data Mining · Burp Suite · Cisco Packet Tracer · VS Code · figma 
