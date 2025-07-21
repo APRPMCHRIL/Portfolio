@@ -21,7 +21,7 @@ Additionally, I have experience building **full-stack web applications** using *
 Python · Java · C · Golang · TypeScript · PHP · CSS · HTML(still learning) · JavaScript(still learning)
 
 **Tools & Frameworks:**  
-React · Arduino · MySQL · Orange Data Mining · Burp Suite · Cisco Packet Tracer · VS Code · figma 
+React · Arduino · MySQL · Orange Data Mining · Burp Suite · Cisco Packet Tracer · VS Code · figma · 
 tensorflow · pytorch · pandas · numpy · transformers · sklearn.metrics · seaborn 
 
 **Other Skills:**  
@@ -93,15 +93,11 @@ React, TypeScript, Golang, REST API
 
 This project aims to detect **sensitive or risky source code** using **Machine Learning** and **Natural Language Processing (NLP)** techniques. It supports developers and security teams in identifying code snippets that could expose personal data, secrets, or vulnerabilities.
 
----
-
-## 🎯 Objective
+### 🎯 Objective
 
 To build a machine learning model capable of classifying code snippets as **sensitive** or **non-sensitive**, and analyze their patterns for better code security and prevention of data breaches.
 
----
-
-## 🧠 Key Features
+### 🧠 Key Features
 
 - Binary classification of source code: Sensitive (1) vs Non-Sensitive (0)
 - Applies NLP techniques to extract features from raw code
@@ -109,19 +105,15 @@ To build a machine learning model capable of classifying code snippets as **sens
 - Analyzes code based on entropy, keywords, and matched patterns
 - Optional: Extracts metadata such as file path, line number, and type of risk (e.g., API key, hardcoded password)
 
----
+**🛠️ Tools & Technologies**
 
-## 🛠️ Tools & Technologies
+- Python
+- Scikit-learn
+- Pandas, NumPy
+- Jupyter Notebook
+- (Optional): DeBERTa, HuggingFace Transformers
 
-- **Python**
-- **Scikit-learn**
-- **Pandas**, **NumPy**
-- **Jupyter Notebook**
-- *(Optional)*: DeBERTa, HuggingFace Transformers
-
----
-
-## 📁 Dataset
+**📁 Dataset**
 
 The dataset includes code samples labeled as:
 - `1`: Sensitive (e.g., secrets, credentials, hardcoded keys)
@@ -129,5 +121,22 @@ The dataset includes code samples labeled as:
 
 Source: Manually labeled + adapted from open repositories and simulated risky code.
 
-**repo:** https://github.com/APRPMCHRIL/ML_DeBERTa_Classification_Sensitive_Code.git
+*repo:* https://github.com/APRPMCHRIL/ML_DeBERTa_Classification_Sensitive_Code.git
+
+---
+
+## Fire Alarm System (Operating Systems Course)
+
+**Technologies:** Raspberry Pi, DHT22 (Temperature & Humidity Sensor), Flame Sensor, Buzzer  
+**Project Type:** Group project for the Operating Systems course  
+**Responsibilities:**  
+- Assembled and connected the DHT22, flame sensor, and buzzer with Raspberry Pi GPIO pins according to the designed circuit  
+- Wrote Python code to read sensor values and control outputs  
+- Practiced working with Linux-based GPIO and multitasking concepts (threads/processes)
+
+**Key Features:**
+- Real-time monitoring of temperature and humidity  
+- Detects flame and triggers buzzer alarm  
+- Logs sensor data and events into a text file for later analysis
+
 ---
